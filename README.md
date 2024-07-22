@@ -1,5 +1,5 @@
 # Welcome!
 
-This is a test repo to demonstrate git bazics: That includes:
+This is a test repo to demonstrate git basics: That includes:
 - Commit
 - Pull requests
